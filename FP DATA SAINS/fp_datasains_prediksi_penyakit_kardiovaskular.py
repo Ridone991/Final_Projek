@@ -11,8 +11,7 @@ Original file is located at
 
 # -----------------------------------
 # 1. Install XGBoost (jika belum)
-# -----------------------------------
-!pip install xgboost --quiet
+# ----------------------------------
 
 # -----------------------------------
 # 2. Import Library
