@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1xGq0xsvmCHXNX4mrv9Nh-9srGCHMj4VQ
 """
 
-!pip install xgboost --quiet
+
 
 # -----------------------------------
 # 1. Install XGBoost (jika belum)
